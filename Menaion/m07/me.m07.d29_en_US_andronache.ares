@@ -13,7 +13,7 @@ meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.ArmataFarao.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.ArmataFarao.notmetered
 meMA.Ode1C11.incipit = "Having gone upon a noetic…"
-meMA.Ode1C11.text = "Having gone upon a noetic chariot you truly drowned the adviser of the noetic Egyptian in the sea of your blood, O Kallinikos, the adornment of martyrs."
+meMA.Ode1C11.text = "Having gone upon a noetic chariot you truly drowned the adviser of the noetic Egyptian in the sea of your blood, O Callinicus, the adornment of martyrs."
 
 meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -25,7 +25,7 @@ meMA.Ode1C13.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_andronache.heHE.ArmataFarao.notmetered
 meMA.Ode1C13.incipit = "You dismissed the manifold plans…"
-meMA.Ode1C13.text = "You dismissed the manifold plans of the foe in the binds of your contests and you dashed him powerless upon the earth, O Kallinikos, and crushed him with your feet."
+meMA.Ode1C13.text = "You dismissed the manifold plans of the foe in the binds of your contests and you dashed him powerless upon the earth, O Callinicus, and crushed him with your feet."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -69,7 +69,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode3
 meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma1.incipit = "Having the divine zeal in…"
-meMA.Ode3Kathisma1.text = "Having the divine zeal in your soul, glorious one, you sternly refuted those vainly breaking the law and having joined in the battle, by tortures you reached the end of your contest with a brave mind, martyr Kallinikos; intercede with Christ God that great mercy be granted to us."
+meMA.Ode3Kathisma1.text = "Having the divine zeal in your soul, glorious one, you sternly refuted those vainly breaking the law and having joined in the battle, by tortures you reached the end of your contest with a brave mind, martyr Callinicus; intercede with Christ God that great mercy be granted to us."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
@@ -82,7 +82,7 @@ meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.EisakikoaOTheos.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.EisakikoaOTheos.notmetered
 meMA.Ode4C11.incipit = "Having been washed in the…"
-meMA.Ode4C11.text = "Having been washed in the rivers of your blood, all-blessed one, you were seen most pure in soul and you reached the portion of the bodiless hosts, martyr Kallinikos."
+meMA.Ode4C11.text = "Having been washed in the rivers of your blood, all-blessed one, you were seen most pure in soul and you reached the portion of the bodiless hosts, martyr Callinicus."
 
 meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -189,7 +189,7 @@ meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.TaSympantaDespota.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.TaSympantaDespota.notmetered
 meMA.Ode8C11.incipit = "Rejoice, delight of the athletes…"
-meMA.Ode8C11.text = "Rejoice, delight of the athletes of truth; rejoice the adornment and boast of the faith; rejoice, most brilliant light-bearer of the martyrs, who dispelled deceit by your contest and shone forth light for the world, all-wise Kallinikos."
+meMA.Ode8C11.text = "Rejoice, delight of the athletes of truth; rejoice the adornment and boast of the faith; rejoice, most brilliant light-bearer of the martyrs, who dispelled deceit by your contest and shone forth light for the world, all-wise Callinicus."
 
 meMA.Ode8C12.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -201,7 +201,7 @@ meMA.Ode8C13.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_andronache.heHE.TaSympantaDespota.notmetered
 meMA.Ode8C13.incipit = "Having boldness towards your God…"
-meMA.Ode8C13.text = "Having boldness towards your God, Kallinikos, ceaselessly entreat for those who honor you, stand for your flock, taking it out of the many snares of the enemy and making firm the faith, for in you it boasts and is strengthened."
+meMA.Ode8C13.text = "Having boldness towards your God, Callinicus, ceaselessly entreat for those who honor you, stand for your flock, taking it out of the many snares of the enemy and making firm the faith, for in you it boasts and is strengthened."
 
 meMA.Ode8C1T.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -233,13 +233,13 @@ meMA.Ode9C13.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_US_andronache.heHE.TonAsporonTokonSou.notmetered
 meMA.Ode9C13.incipit = "You were brought to God…"
-meMA.Ode9C13.text = "You were brought to God as right whole-burnt offering and received incense, glorious Kallinikos by your fire of your struggles."
+meMA.Ode9C13.text = "You were brought to God as right whole-burnt offering and received incense, glorious Callinicus by your fire of your struggles."
 
 meMA.Ode9C14.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode9C14.melody = he.h.m4_en_US_andronache.heHE.TonAsporonTokonSou.notmetered
 meMA.Ode9C14.incipit = "Your feet are beautiful, athlete…"
-meMA.Ode9C14.text = "Your feet are beautiful, athlete Kallinikos, pierced by nails and walking towards the divine preaching."
+meMA.Ode9C14.text = "Your feet are beautiful, athlete Callinicus, pierced by nails and walking towards the divine preaching."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode4
